@@ -1,2 +1,2 @@
 # dotfiles
-Personal configuration file for zsh, vim, and tmux
+Personal configuration files for zsh, vim, and tmux
